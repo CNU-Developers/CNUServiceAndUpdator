@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<packages>
+  <update base="http://cnu.sogang.ac.kr/update/" />
+  <package name="CNUService.exe" version="1.0.0" />
+  <package name="CNUUpdater.exe" version="1.0.0">
+    <run>
+      <as>Administrator</as>
+    </run>
+  </package>
+  <package name="ChangeIP.exe" version="1.0.0">
+    <run>
+      <as>Administrator</as>
+      <once />
+    </run>
+  </package>
+  <package name="RemoteShutdownClient.exe" version="1.0.0">
+    <run />
+  </package>
+  <package name="IPList.txt" version="1.0.0" />
+</packages>

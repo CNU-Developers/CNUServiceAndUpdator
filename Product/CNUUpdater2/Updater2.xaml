@@ -1,0 +1,8 @@
+﻿<Window x:Class="CNU.Updater2.Updater2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="" Height="0" Width="0" WindowState="Minimized" ResizeMode="NoResize" ShowInTaskbar="False" WindowStyle="None">
+    <Grid>
+        
+    </Grid>
+</Window>
